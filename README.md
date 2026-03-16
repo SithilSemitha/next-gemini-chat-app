@@ -71,9 +71,4 @@ Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:30
 └── styles/             # Global CSS and Tailwind configurations
 
 ```
-
-## 🛡️ License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 Developed by [Sithil Semitha](https://www.google.com/search?q=https://github.com/SithilSemitha)
